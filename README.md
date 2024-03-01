@@ -1,10 +1,10 @@
 
-**Predictive Maintenance for Industrial Machinery**
+# Predictive Maintenance for Industrial Machinery
 
-**Overview:**
+## Overview:
 In today's industrial landscape, unplanned downtime due to machinery failures can result in significant financial losses and operational disruptions. To mitigate these challenges, predictive maintenance techniques leverage advanced analytics and machine learning algorithms to predict potential failures before they occur. This GitHub project offers a comprehensive solution for predictive maintenance tailored for industrial machinery.
 
-**Key Features:**
+## Key Features:
 1. **Data Preprocessing Pipeline:** Includes robust data preprocessing steps such as data cleaning, feature engineering, and normalization to prepare raw sensor data for modeling.
    
 2. **Multiple Machine Learning Models:** Implements various machine learning algorithms including Logistic Regression, Random Forest, Support Vector Machine (SVM), and Gradient Boosting to predict machinery failures based on sensor data.
@@ -15,14 +15,14 @@ In today's industrial landscape, unplanned downtime due to machinery failures ca
    
 5. **Deployment Guidance:** Offers guidelines and best practices for deploying predictive maintenance models in real-world industrial settings, facilitating seamless integration into existing maintenance workflows.
 
-**Benefits:**
+## Benefits:
 - **Cost Reduction:** By accurately predicting machinery failures in advance, organizations can minimize unplanned downtime, reduce maintenance costs, and optimize resource allocation.
   
 - **Enhanced Productivity:** Enables proactive maintenance scheduling, leading to improved equipment reliability, increased operational efficiency, and enhanced production throughput.
   
 - **Risk Mitigation:** Helps mitigate safety risks associated with equipment failures, ensuring a safer working environment for employees and preventing potential accidents.
 
-**Who Can Benefit:**
+## Who Can Benefit:
 - **Industrial Engineers and Maintenance Professionals:** Provides valuable insights and tools for implementing predictive maintenance strategies, optimizing equipment performance, and reducing downtime.
   
 - **Manufacturing Companies and Plant Operators:** Offers a scalable solution for enhancing asset reliability, maximizing equipment uptime, and improving overall operational efficiency.
